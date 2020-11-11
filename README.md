@@ -1,17 +1,17 @@
 # ATM MACHINE 
 
-> I made this project as a challenge of JavaScript module of FrontEnd from [HEROWAY] course, 
-> built with JavaScript, HTML5 and CSS3.
+> *I made this project as a challenge of JavaScript module of FrontEnd from [HEROWAY] course,*
+> *built with JavaScript, HTML5 and CSS3.*
 
-See this application working:
 ![Final result](atm-machine.gif)
 
 # Objectives:
 
  - Implement knowledge learned.
- - Simullate an cash machine:
-  - Calculate money bills, the system must give the smallest amount of banknotes;
-  - Don't allow withdraw values below $10 (because the smaller banknote we have is $10);
+ 
+ - **Simullate an cash machine:**
+ - Calculate money bills, the system must give the smallest amount of banknotes;
+ - Don't allow withdraw values below $10 (because the smaller banknote we have is $10);
   
 # Tech:
 
