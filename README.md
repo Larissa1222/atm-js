@@ -9,7 +9,7 @@
 
  - Implement knowledge learned.
  
- - **Simullate an cash machine:**
+ - **Simullate a cash machine:**
  - Calculate money bills, the system must give the smallest amount of banknotes;
  - Don't allow withdraw values below $10 (because the smaller banknote we have is $10);
   
