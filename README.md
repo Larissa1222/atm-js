@@ -3,7 +3,7 @@
 > *I made this project as a challenge of JavaScript module of FrontEnd from [HEROWAY] course,*
 > *built with JavaScript, HTML5 and CSS3.*
 
-![Final result](atm-machine.gif)
+![Final result](atm-js.gif)
 
 # Objectives:
 
